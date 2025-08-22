@@ -3,6 +3,9 @@
 A Data Analytics project built in **Power BI** using the Starbucks dataset.  
 The goal of this project was to transform raw data into **actionable insights** through data cleaning, transformation, and visualization.  
 
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/806cf557-e2db-474e-9c91-9149e8e07f15" />
+
+
 ---
 
 ## Project Overview
